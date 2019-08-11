@@ -1,0 +1,12 @@
+com/lomofu/weathercollectionserver/vo/WeatherResponse.class
+com/lomofu/weathercollectionserver/WeatherCollectionServerApplication.class
+com/lomofu/weathercollectionserver/vo/Yesterday.class
+com/lomofu/weathercollectionserver/config/QuartzConfig.class
+com/lomofu/weathercollectionserver/service/WeatherDataCollectionService.class
+com/lomofu/weathercollectionserver/vo/Weather.class
+com/lomofu/weathercollectionserver/service/Impl/WeatherDataCollectionServiceImpl.class
+com/lomofu/weathercollectionserver/service/CityClient.class
+com/lomofu/weathercollectionserver/config/RestConfiguration.class
+com/lomofu/weathercollectionserver/vo/City.class
+com/lomofu/weathercollectionserver/job/Sync.class
+com/lomofu/weathercollectionserver/vo/Forecast.class

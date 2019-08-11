@@ -1,0 +1,12 @@
+/Users/lomofu/Documents/project/idea/micro-weather/weather-collection-server/src/main/java/com/lomofu/weathercollectionserver/job/Sync.java
+/Users/lomofu/Documents/project/idea/micro-weather/weather-collection-server/src/main/java/com/lomofu/weathercollectionserver/config/RestConfiguration.java
+/Users/lomofu/Documents/project/idea/micro-weather/weather-collection-server/src/main/java/com/lomofu/weathercollectionserver/vo/WeatherResponse.java
+/Users/lomofu/Documents/project/idea/micro-weather/weather-collection-server/src/main/java/com/lomofu/weathercollectionserver/vo/Weather.java
+/Users/lomofu/Documents/project/idea/micro-weather/weather-collection-server/src/main/java/com/lomofu/weathercollectionserver/service/Impl/WeatherDataCollectionServiceImpl.java
+/Users/lomofu/Documents/project/idea/micro-weather/weather-collection-server/src/main/java/com/lomofu/weathercollectionserver/WeatherCollectionServerApplication.java
+/Users/lomofu/Documents/project/idea/micro-weather/weather-collection-server/src/main/java/com/lomofu/weathercollectionserver/service/WeatherDataCollectionService.java
+/Users/lomofu/Documents/project/idea/micro-weather/weather-collection-server/src/main/java/com/lomofu/weathercollectionserver/vo/City.java
+/Users/lomofu/Documents/project/idea/micro-weather/weather-collection-server/src/main/java/com/lomofu/weathercollectionserver/vo/Forecast.java
+/Users/lomofu/Documents/project/idea/micro-weather/weather-collection-server/src/main/java/com/lomofu/weathercollectionserver/service/CityClient.java
+/Users/lomofu/Documents/project/idea/micro-weather/weather-collection-server/src/main/java/com/lomofu/weathercollectionserver/config/QuartzConfig.java
+/Users/lomofu/Documents/project/idea/micro-weather/weather-collection-server/src/main/java/com/lomofu/weathercollectionserver/vo/Yesterday.java

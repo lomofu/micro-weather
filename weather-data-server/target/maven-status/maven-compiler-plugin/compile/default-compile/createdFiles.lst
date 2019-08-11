@@ -1,0 +1,8 @@
+com/lomofu/weatherdataserver/service/Impl/WeatherDataServiceImpl.class
+com/lomofu/weatherdataserver/WeatherDataServerApplication.class
+com/lomofu/weatherdataserver/vo/WeatherResponse.class
+com/lomofu/weatherdataserver/vo/Forecast.class
+com/lomofu/weatherdataserver/vo/Weather.class
+com/lomofu/weatherdataserver/service/WeatherDataService.class
+com/lomofu/weatherdataserver/vo/Yesterday.class
+com/lomofu/weatherdataserver/controller/WeatherDataController.class
